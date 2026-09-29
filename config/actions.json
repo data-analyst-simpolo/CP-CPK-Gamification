@@ -1,0 +1,11 @@
+{
+  "Increase Machine Speed":{"icon":"⚙️","cost":5,"prod":12,"sigma":10,"description":"Faster conveyor and higher output, with more variation."},
+  "Center Process Setting":{"icon":"🎯","cost":15,"prod":0,"sigma":0,"center":0.70,"description":"Moves the process mean toward target."},
+  "Standardize Settings":{"icon":"🛠️","cost":20,"prod":0,"sigma":-10,"description":"Reduces machine-setting variation."},
+  "Operator Training":{"icon":"👷","cost":15,"prod":3,"sigma":-5,"description":"Improves consistency and output."},
+  "Preventive Maintenance":{"icon":"🔧","cost":25,"prod":-5,"sigma":-15,"future":5,"description":"Improves equipment reliability after a short stoppage."},
+  "Raw Material Control":{"icon":"🧱","cost":20,"prod":0,"sigma":-10,"description":"Controls incoming material variation."},
+  "Line Balancing":{"icon":"🏭","cost":20,"prod":8,"sigma":0,"description":"Raises throughput without increasing variation."},
+  "Instrument Calibration":{"icon":"📏","cost":10,"prod":-2,"sigma":-3,"center":0.35,"description":"Reduces measurement bias."},
+  "SMED Changeover":{"icon":"⏱️","cost":15,"prod":6,"sigma":0,"description":"Recovers productive time."}
+}
