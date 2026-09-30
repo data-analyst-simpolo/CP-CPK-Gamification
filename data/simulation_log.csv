@@ -1,1 +1,1 @@
-Session ID,Team Name,Department,Round,Action 1,Action 2,Random Event,Mean,Sigma,Productivity,Good Output,Yield %,Cp,Cpk,UCL,LCL,USL,LSL,Budget Remaining,Round Score,Created At
+Session ID,Team Name,Team Members,Round,Scenario,Action 1,Action 2,Carryover Effect,Productivity,Quality %,Bulk Density Mean,Bulk Density Sigma,Cp,Cpk,UCL,LCL,USL,LSL,Budget Remaining,Priority Score,Constraint Score,Round Score,Total Score,Created At
